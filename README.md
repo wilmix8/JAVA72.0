@@ -92,6 +92,8 @@ It is the best Programming language which interact with JAVA7.
 
 JAVA72.0 is focused on interaction with JSWORD.
 
+20) JAVA7(OAKJAVA) Advanced Business:  It  is  focused   with  JDollar(JWEB)  Advanced Business.
+
 Note: Here we use only JAVA7  .exe and JAVA7  .dll
 
 
